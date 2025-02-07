@@ -138,7 +138,7 @@ The **Project Cost Management System** is a web-based application designed to ef
    ```
 4. Run migrations and seeders:  
    ```bash
-   php artisan migrate --seed
+   php artisan db:seed
    ```
 5. Start the Laravel server:  
    ```bash
